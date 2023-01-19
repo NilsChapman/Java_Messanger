@@ -1,4 +1,4 @@
-package com.Api.Messanger.MongoDB;
+package com.Api.Messanger.repository;
 
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoClients;
